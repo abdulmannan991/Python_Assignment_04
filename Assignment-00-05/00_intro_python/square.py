@@ -5,7 +5,7 @@ def main():
     result : float = float(user_input **2)
     print(f"{user_input} squared is : ", result)
 
-# There is no need to edit code beyond this point
+
 
 if __name__ == '__main__':
     main()
