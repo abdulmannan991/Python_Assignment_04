@@ -14,3 +14,4 @@ def mad_libs():
     
 if __name__ == "__main__":
     mad_libs()
+# .

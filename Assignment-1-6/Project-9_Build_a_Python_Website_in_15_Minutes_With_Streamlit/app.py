@@ -89,3 +89,5 @@ elif page == "Contact":
 
 # Footer
 st.markdown("<div class='footer'>Made by ❤️ Moiz Ahmed</div>", unsafe_allow_html=True)
+
+# .
